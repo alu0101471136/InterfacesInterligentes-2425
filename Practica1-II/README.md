@@ -3,4 +3,4 @@
 
 ## Gif del funcionamiento
 
-![Práctica 1](Practica1-II_gif.mp4)
+![Práctica 1](Practica1-II_gif.gif)
