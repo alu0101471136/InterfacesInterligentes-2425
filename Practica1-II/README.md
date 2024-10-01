@@ -3,4 +3,4 @@
 
 ## Gif del funcionamiento
 
-![Práctica 1](Practica1-II-gif.gif)
+![Práctica 1](../Practica1-II-gif.gif)
