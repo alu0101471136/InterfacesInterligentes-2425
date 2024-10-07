@@ -6,4 +6,4 @@ Este script lo he desarrollado de forma general, teniendo en cuenta que cualquie
 
 ### Gif del funcionamiento
 
-![Práctica 1](../Practica1-II-gif.gif)
+![Práctica 1](Practica1-II-gif.gif)

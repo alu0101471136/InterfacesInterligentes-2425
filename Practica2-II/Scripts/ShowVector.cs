@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ShowVector : MonoBehaviour {
-  [SerializeField] private Vector3 firstVector = new Vector3(0, 0, 0);
-  [SerializeField] private Vector3 seconVector = new Vector3(0, 0, 0);
+  [SerializeField] private Vector3 firstVector;
+  [SerializeField] private Vector3 seconVector;
   // Start is called before the first frame update
   void Start() { 
     Debug.Log("The first vector magnitude is " + firstVector.magnitude);
