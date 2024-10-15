@@ -1,4 +1,4 @@
-# Práctica 2 - Introducción a las físicas
+# Práctica 3 - Introducción a las físicas
 En esta práctica se abordarán los conceptos básicos de las físicas en Unity, se realizarán ejercicios de movimiento y colisiones.
 
 ## Situaciones de aprendizaje
